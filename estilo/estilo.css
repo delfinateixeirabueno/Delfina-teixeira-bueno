@@ -1,0 +1,31 @@
+body{ 
+    /*propiedades valor */
+    background-color: #6ddddd;
+color:  #8baf27;
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.Producto^{ 
+
+color:  #2740af;
+    background: color #2735af;
+    width: 200px ;
+
+}
+.Contenedorproducto{ 
+    display: flex;
+justify-content: space-around;
+}
+
+.contenedorUbicacion{ 
+    display: flex;
+justify-content: space-evenly;
+}
+
+.divInfoUbicacion{
+
+width: 500px;
+
+}
+
+
+}
